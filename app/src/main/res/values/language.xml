@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_arrays">
+        <item>เลือกกาษา</item>
+        <item>Thai</item>
+        <item>English</item>
+        <item>Japanese</item>
+        <item>Chinese</item>
+        <item>Korean</item>
+        <item>Vietnamese</item>
+        <item>Lao</item>
+    </string-array>
+</resources>
